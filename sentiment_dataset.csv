@@ -1,0 +1,97 @@
+Text,Sentiment
+"I love this product, it's fantastic!",Positive
+"This is the worst experience ever.",Negative
+"I am not sure how I feel about this.",Neutral
+"The service was excellent!",Positive
+"I'm disappointed with the quality.",Negative
+"It's okay, could be better.",Neutral
+"Absolutely amazing performance!",Positive
+"Terrible product, waste of money.",Negative
+"It's neither good nor bad.",Neutral
+"Really satisfied with the purchase.",Positive
+"Very poor customer support.",Negative
+"Average product, nothing special.",Neutral
+"The movie was brilliant and inspiring!",Positive
+"The food was stale and tasteless.",Negative
+"I'm indifferent about this book.",Neutral
+"Great quality and fast delivery!",Positive
+"The app keeps crashing, terrible!",Negative
+"It's alright, not too bad.",Neutral
+"Highly recommended, loved it!",Positive
+"Horrible experience, never again.",Negative
+"It’s just acceptable, nothing great.",Neutral
+"The customer service is outstanding.",Positive
+"Worst product I've ever bought.",Negative
+"I have mixed feelings about this.",Neutral
+"Extremely happy with my purchase.",Positive
+"It broke after one use, rubbish.",Negative
+"It's fine, serves the purpose.",Neutral
+"Five stars, exceeded expectations!",Positive
+"Awful quality, very disappointed.",Negative
+"Neither good nor bad, average.",Neutral
+"I enjoyed every bit of it.",Positive
+"It was a disaster, don't buy.",Negative
+"Neutral, I have no opinion.",Neutral
+"Fantastic build and amazing features.",Positive
+"Pathetic product, huge waste of money.",Negative
+"I neither love nor hate it.",Neutral
+"Superb performance, totally worth it!",Positive
+"Product stopped working in a week.",Negative
+"It works as advertised.",Neutral
+"Absolutely flawless, I'm impressed.",Positive
+"Disgusting experience, regret buying.",Negative
+"Nothing special to mention.",Neutral
+"I'm so satisfied, will order again.",Positive
+"Terrible smell, low quality.",Negative
+"It does the job, nothing more.",Neutral
+"Best experience I've had so far.",Positive
+"Cheap material, feels fragile.",Negative
+"I'm undecided about this.",Neutral
+"Wonderful quality, very pleased.",Positive
+"Returned immediately, very poor.",Negative
+"It's neither impressive nor disappointing.",Neutral
+"Excellent service, highly satisfied!",Positive
+"Completely useless, avoid this.",Negative
+"Neutral review, nothing much to add.",Neutral
+"Great performance and value.",Positive
+"The item arrived damaged.",Negative
+"Mixed feelings about the performance.",Neutral
+"Brilliant design, loved it!",Positive
+"Broken pieces inside the box.",Negative
+"Neutral overall experience.",Neutral
+"Very reliable and efficient.",Positive
+"Extremely low-quality material.",Negative
+"I'm unsure about this product.",Neutral
+"Amazing sound quality!",Positive
+"Does not work as described.",Negative
+"It's acceptable for the price.",Neutral
+"Highly satisfied with the product.",Positive
+"Awful packaging, item was scratched.",Negative
+"I'm neutral, can't decide yet.",Neutral
+"Fantastic experience, would recommend.",Positive
+"Poor build, cheaply made.",Negative
+"It works fine, nothing fancy.",Neutral
+"Totally worth every penny.",Positive
+"Regret buying this garbage.",Negative
+"It's just okay, nothing wow.",Neutral
+"Really impressed with the quality.",Positive
+"Utter disappointment, stay away.",Negative
+"I feel neutral towards it.",Neutral
+"Superb features and performance.",Positive
+"Completely faulty on arrival.",Negative
+"Neither good nor terrible.",Neutral
+"Very happy with this purchase.",Positive
+"Low-grade product, poor quality.",Negative
+"Can't say much, it's neutral.",Neutral
+"Fantastic product, exceeded my expectations!",Positive
+"Terrible, broke within days.",Negative
+"It's neither excellent nor awful.",Neutral
+"Top-notch quality, loved it!",Positive
+"Doesn't work properly, disappointed.",Negative
+"Neutral opinion, no complaints.",Neutral
+"Really good experience, satisfied.",Positive
+"Worst purchase, terrible quality.",Negative
+"I'm indifferent to this.",Neutral
+"Love this, would buy again!",Positive
+"Horrible build, feels cheap.",Negative
+"Neutral product, average quality.",Neutral
