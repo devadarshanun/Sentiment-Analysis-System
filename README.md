@@ -11,11 +11,11 @@ This project analyzes the sentiment of textual input such as product reviews, tw
 
 ##  Features
 
-✅ Supports three sentiment categories: Positive, Negative, Neutral  
-✅ Preprocesses raw text using NLP techniques  
-✅ Trains an LSTM model on labeled data  
-✅ Accepts CSV dataset for training  
-✅ Ready to integrate with UI or API
+Supports three sentiment categories: Positive, Negative, Neutral  
+Preprocesses raw text using NLP techniques  
+Trains an LSTM model on labeled data  
+Accepts CSV dataset for training  
+Ready to integrate with UI or API
 
 
 ##  Dataset Format
